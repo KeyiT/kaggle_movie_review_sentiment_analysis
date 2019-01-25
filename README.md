@@ -10,3 +10,14 @@ source activate <env_name>
 ```bash
 pip install -r requirements
 ```
+3. create data folder and download data
+```bash
+mkdir input/<competition_name>
+cd input/<competition_name>
+kaggle competitions download -c <competition_name>
+cd ../../
+```
+4. create a folder for source code
+```bash
+mkdir src
+```
