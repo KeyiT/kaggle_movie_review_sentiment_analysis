@@ -1,0 +1,17 @@
+{
+  "id": "keyit92/movie-review-sentiment-keras-model-v0",
+  "id_no": 2731882,
+  "title": "Movie Review Sentiment Keras Model V0",
+  "code_file": "main_notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "pkugoodspeed/nlpword2vecembeddingspretrained"
+  ],
+  "kernel_sources": [],
+  "competition_sources": ["movie-review-sentiment-analysis-kernels-only"]
+}
