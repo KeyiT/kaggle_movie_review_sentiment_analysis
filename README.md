@@ -17,7 +17,11 @@ cd input/<competition_name>
 kaggle competitions download -c <competition_name>
 cd ../../
 ```
-4. create a folder for source code
+4. create a folder for kernel, create and push a kernel
 ```bash
-mkdir src
+mkdir <kernel_name>
+cd <kernel_name>
+kaggle kernels init -p ./
+# TODO: create a notebook and modify the kernel metadata
+kaggle kernels push <use_name>/<kernel_name> ./
 ```
