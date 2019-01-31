@@ -5,7 +5,7 @@
   "code_file": "main_notebook.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": true,
+  "is_private": false,
   "enable_gpu": true,
   "enable_internet": false,
   "keywords": [],
@@ -13,5 +13,7 @@
     "pkugoodspeed/nlpword2vecembeddingspretrained"
   ],
   "kernel_sources": [],
-  "competition_sources": ["movie-review-sentiment-analysis-kernels-only"]
+  "competition_sources": [
+    "movie-review-sentiment-analysis-kernels-only"
+  ]
 }
