@@ -1,4 +1,4 @@
-# kaggle_future_sales
+# Kaggle Movie Review Sentiment Analysis
 
 ## Setup package
 1. Setup a new python virtual environment:
