@@ -1,7 +1,7 @@
 {
-  "id": "keyit92/movie-review-sentiment-keras-model-v0",
+  "id": "keyit92/sentiment-cnn-rnn-atte-rnn-cnn-rnn-hiercnn",
   "id_no": 2731882,
-  "title": "Movie Review Sentiment Keras Model V0",
+  "title": "Sentiment CNN, RNN-Atte, RNN-CNN, RNN-HierCNN",
   "code_file": "main_notebook.ipynb",
   "language": "python",
   "kernel_type": "notebook",
@@ -10,7 +10,8 @@
   "enable_internet": false,
   "keywords": [],
   "dataset_sources": [
-    "pkugoodspeed/nlpword2vecembeddingspretrained"
+    "pkugoodspeed/nlpword2vecembeddingspretrained",
+    "yekenot/fasttext-crawl-300d-2m"
   ],
   "kernel_sources": [],
   "competition_sources": [
