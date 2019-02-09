@@ -1,0 +1,20 @@
+{
+  "id": "keyit92/seq-tree-hybrid-lstm-model-for-sentiment-analysis",
+  "id_no": 2886970,
+  "title": "Seq-Tree Hybrid LSTM Model for Sentiment Analysis",
+  "code_file": "main_notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "keyit92/stanford-sentiment-treebank",
+    "yekenot/fasttext-crawl-300d-2m"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "movie-review-sentiment-analysis-kernels-only"
+  ]
+}

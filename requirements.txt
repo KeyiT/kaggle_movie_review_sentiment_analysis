@@ -17,7 +17,8 @@ xgboost==0.81
 kaggle
 tqdm==4.28.1
 hyperopt==0.1.1
-dlmslib==0.4
+dlmslib
 pydot==1.2.3
 graphviz
 h5py
+torch==1.0.0
